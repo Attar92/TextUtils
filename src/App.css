@@ -1,0 +1,30 @@
+*{
+  margin: 0;padding: 0;
+}
+h1, h3{
+  display: inline;
+}
+p{
+  font-size:larger;
+}
+li{
+  list-style: none;
+  padding-left: 80px;
+}
+.form-label{
+  font-size: 24px;
+  font-weight: bolder;
+}
+.ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: large;
+  margin-bottom: 0;
+}
+#remains{
+  margin-left: 35px;
+}
+.under{
+  text-decoration: none;
+}
